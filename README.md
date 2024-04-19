@@ -1,5 +1,5 @@
 <p align="center"> <img src="https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png" alt="Logo da Alura"> </p>
-<p align="center">O jogo do número secreto com reconhecimento de voz, foi desenvolvido para que os usuário não precisem digitar.</p>
+<p align="center">AluraBook é uma plataforma para apresentação e venda de livros.</p>
 
 ## Tecnologias utilizadas durante o curso
 * JavaScript
@@ -18,10 +18,10 @@
 * Manipule o DOM com base nos métodos de array
 
 ## Melhoria apresentada e executada
-* Realizei o ajuste no layout responsivo
+* Realizei a inclusão de uma seta no botão ordenar por preço, a seta se ajusta de acordo com maior ou menor valor.
 
 <hr><br>
 
-<img src="img/vidflow.png" alt="tela inicial do AluraBook">
+<img src="imagens/alurabook.png" alt="tela inicial do AluraBook">
 
 
